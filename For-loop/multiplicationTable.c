@@ -10,7 +10,7 @@ int main()
 
     int i;
 
-    for(i = 1; i <= n; i++){
+    for(i = 1; i <= 10; i++){
         value = n * i;
         printf("%d X %d = %d\n", n, i, value);
     }
